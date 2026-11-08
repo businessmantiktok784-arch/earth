@@ -441,3 +441,4 @@ cp .env.example .env
 >>>>>>> 59b7875b1e82e599dde26993d8f3b9e4c8192bed
 
 *Security notice: Never commit `.env` or expose access tokens or API keys in logs or client-facing code.*
+# earth
